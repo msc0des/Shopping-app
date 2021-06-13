@@ -39,5 +39,5 @@ testem.log
 Thumbs.db
 
 #api
-/environment.prod.ts
-/environment.ts
+environment.prod.ts
+environment.ts
